@@ -1,0 +1,6 @@
+git init
+git branch -M main
+git add .
+git commit -m "Versión 6 – J&A Chorizos y Morcillas Artesanales"
+git remote add origin https://github.com/jota-jotaanny/version6-ja-chorizos.git
+git push -u origin main
