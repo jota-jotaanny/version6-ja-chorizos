@@ -1,0 +1,1 @@
+export default function App(){return <div>Proyecto base reconstruido. Vuelve a pedirme regenerar Versión 6 completa si ves esto.</div>}
